@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Sevinda-Herath
+/src/backend/database.py      @Sevinda-Herath
+/src/backend/routers/auth.py  @Sevinda-Herath
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Sevinda-Herath
